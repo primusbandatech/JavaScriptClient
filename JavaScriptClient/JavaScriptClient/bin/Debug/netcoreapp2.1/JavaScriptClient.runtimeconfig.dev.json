@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Solar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Solar\\.nuget\\packages"
+    ]
+  }
+}
